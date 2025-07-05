@@ -27,7 +27,7 @@ When you make the connection between b) and c), the connected LED is OFF until i
 
 I have used breadboard to make connections easier. See the circuit diagram to understand better!
 
-<--------Relay Arduino-------->
+<h4><-------------Relay Arduino-------------><h4>
 
 <!-- ![alt text](image-2.png) -->
 <img src="image-2.png" width="500"/>
