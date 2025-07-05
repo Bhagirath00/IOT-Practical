@@ -7,7 +7,8 @@ Connect the Vcc pin of Relay to Arduino 5V
 Connect the GND pin of Relay to Arduino GND
 Connect the IN pin(Input pin) of Relay to Arduino digital pin D3
 
-![alt text](image.png)
+<!-- ![alt text](image.png) -->
+<img src="image.png" width="250"/>
 
 2). Relay to LED connection
 The relay module has 3pin screw terminal.
@@ -15,7 +16,8 @@ a). NO - Normally open
 b). COM - Common
 c). NC - Normally closed
 
-![alt text](image-1.png)
+<!-- ![alt text](image-1.png) -->
+ <img src="image-1.png" width="250"/>
 
 High voltage connections can be made to this screw terminal. For example: Bulb, ceiling fan etc., But in this project we are just using an LED.
 
@@ -27,4 +29,5 @@ I have used breadboard to make connections easier. See the circuit diagram to un
 
 <--------Relay Arduino-------->
 
-![alt text](image-2.png)
+<!-- ![alt text](image-2.png) -->
+<img src="image-2.png" width="250"/>
