@@ -10,15 +10,15 @@ It's designed especially for students, beginners, and enthusiasts who want hands
 ```plaintext
 iot-practical/
 │
-├── Button/ --> Code and circuit for push-button interface
-├── LED/ --> Blinking and control logic for LEDs
-├── LDR/ --> Light sensor (LDR) reading and control
-├── Relay/ --> Control high voltage appliances via relay module
-├── Transistor/ --> Transistor as switch/amplifier examples
-├── shif-Register/ --> Shift register (e.g., 74HC595) control examples
-├── .vscode/ --> VS Code/PlatformIO configuration files
-├── .gitignore --> Files ignored by Git
-└── README.md --> Project documentation
+├── Button        --> Code and circuit for push-button interface          |
+├── LED           --> Blinking and control logic for LEDs                 |
+├── LDR           --> Light sensor (LDR) reading and control              |
+├── Relay         --> Control high voltage appliances via relay module    |
+├── Transistor    --> Transistor as switch/amplifier examples             |
+├── shif-Register --> Shift register (e.g., 74HC595) control examples     |
+├──
+├──
+└──
 
 ```
 
