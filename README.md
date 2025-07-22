@@ -1,5 +1,4 @@
-```markdown
-# 🔌 IoT Practical Projects (IOT-P)
+# 🔌 IoT Practical Projects
 
 This repository contains a well-structured collection of essential **IoT practical experiments**, implemented using C++ for Arduino-based environments.  
 It's designed especially for students, beginners, and enthusiasts who want hands-on experience with real-world IoT hardware components and coding practices.
@@ -7,8 +6,8 @@ It's designed especially for students, beginners, and enthusiasts who want hands
 ---
 
 ## 📁 Folder Structure
-```
 
+```plaintext
 iot-practical/
 │
 ├── Button/ --> Code and circuit for push-button interface
@@ -46,5 +45,3 @@ If you’d like to add more components or improve existing examples:
 4. Submit a pull request. 💡
 
 ---
-
-```
