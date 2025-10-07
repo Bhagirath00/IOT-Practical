@@ -1,0 +1,5 @@
+- [x] Create Buzzer project folder with code.cpp and docs/description.md
+- [x] Create Servo project folder with code.cpp and docs/description.md
+- [x] Create Ultrasonic project folder with code.cpp and docs/description.md
+- [x] Create DHT11 project folder with code.cpp and docs/description.md
+- [x] Update README.md to include new folders in structure
