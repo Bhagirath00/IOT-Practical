@@ -16,8 +16,10 @@ iot-practical/
 ├── Relay         --> Control high voltage appliances via relay module    |
 ├── Transistor    --> Transistor as switch/amplifier examples             |
 ├── shif-Register --> Shift register (e.g., 74HC595) control examples     |
-├──
-├──
+├── Buzzer        --> Sound generation using buzzer module                |
+├── Servo         --> Servo motor control for angular movement            |
+├── Ultrasonic    --> Distance measurement with ultrasonic sensor         |
+├── DHT11         --> Temperature and humidity sensing                    |
 └──
 
 ```
