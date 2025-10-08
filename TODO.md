@@ -1,5 +1,4 @@
-- [x] Create Buzzer project folder with code.cpp and docs/description.md
-- [x] Create Servo project folder with code.cpp and docs/description.md
-- [x] Create Ultrasonic project folder with code.cpp and docs/description.md
-- [x] Create DHT11 project folder with code.cpp and docs/description.md
-- [x] Update README.md to include new folders in structure
+- [x] Create IR project folder with code.cpp, docs/description.md, docs/image.png
+- [x] Create LCD project folder with code.cpp, docs/description.md, docs/image.png
+- [x] Create DCMotor project folder with code.cpp, docs/description.md, docs/image.png
+- [x] Create Stepper project folder with code.cpp, docs/description.md, docs/image.png
