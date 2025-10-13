@@ -4,5 +4,5 @@
 - [x] Create Stepper project folder with code.cpp, docs/description.md, docs/image.png
 - [x] Create RFID project folder with code.cpp, docs/description.md, docs/image.png
 - [x] Create Bluetooth project folder with code.cpp, docs/description.md, docs/image.png
-- [ ] Create WiFi project folder with code.cpp, docs/description.md, docs/image.png
+- [x] Create WiFi project folder with code.cpp, docs/description.md, docs/image.png
 - [ ] Create GPS project folder with code.cpp, docs/description.md, docs/image.png
