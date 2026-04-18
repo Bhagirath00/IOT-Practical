@@ -6,3 +6,7 @@
 - [x] Create Bluetooth project folder with code.cpp, docs/description.md, docs/image.png
 - [x] Create WiFi project folder with code.cpp, docs/description.md, docs/image.png
 - [x] Create GPS project folder with code.cpp, docs/description.md, docs/image.png
+- [ ] Create Accelerometer project folder with code.cpp, docs/description.md, docs/image.png
+- [ ] Create Gyroscope project folder with code.cpp, docs/description.md, docs/image.png
+- [ ] Create Microphone project folder with code.cpp, docs/description.md, docs/image.png
+- [ ] Create Camera project folder with code.cpp, docs/description.md, docs/image.png
